@@ -41,7 +41,5 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
 
-```{r}
+#"Your Work Here"
 
-print ("Your Work Here")
-```
