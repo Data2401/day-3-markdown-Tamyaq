@@ -1,15 +1,9 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Tamana Yaqoubi"
 date: "Data 2401"
 output: html_document
 ---
-
-
-```{r}
-print ("Something")
-```
-
 
 
 ```{r setup, include=FALSE}
