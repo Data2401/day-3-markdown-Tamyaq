@@ -47,9 +47,9 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 |__Course number__ | _Course title_ | Instructor name |
 |:-----------------|:---------------|:----------------|
-| CS 2401          | Data Science 1 | Katherine Shoemaker |
-| CS 4319 | Statistical and Machine Learning | Benjamin Soibam |
-| CS 4294 | Senior Seminar | Hong Lin |
+| CS 2401          | Data Science 1                   | Katherine Shoemaker |
+| CS 4319          | Statistical and Machine Learning | Benjamin Soibam |
+| CS 4294          | Senior Seminar                   | Hong Lin |
 
 ## I Recommned
 
